@@ -83,7 +83,7 @@ Before we start getting into the details, let’s understand the terms we use
 
 # Glossary + Metaphors
 
-**Campers (Metaphors) **
+**Campers (Metaphors)**
 
 
 
@@ -91,7 +91,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   We need to make sure it could grow to our needs and contain what our hikers are bringing in
 *   Our camp should be strong enough to handle rain and even rainstorm and campers should prepare for those scenarios
 
-**Hikers (Metaphors) **
+**Hikers (Metaphors)**
 
 
 
@@ -101,7 +101,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   They can invite people from other camps to join their hike
 *   A group of hikers will choose one person to navigate or decide that the whole group would share that responsibility 
 
-**Trail Blazers (Metaphors) **
+**Trail Blazers (Metaphors)**
 
 
 
@@ -135,7 +135,7 @@ Ideally the navigator takes care of the team’s processes. (A navigator is not 
 *   Make sure to include screenshots
 *   Hikers should know who’s going to talk when about what, ideally do a dry-run first
 
-**Story Time **- A meeting that takes place at the campsite, on the hikes and on the trailblazers. The goal of this meeting is to decide the stories/tickets that will be taken care of in the “round” - that is the next iteration for the journeys and the tailblazers and the next time frame for the campsite.  For that purpose the tickets/stories ready for development will be discussed one by one, estimated, and among all of them prioritized.
+**Story Time**- A meeting that takes place at the campsite, on the hikes and on the trailblazers. The goal of this meeting is to decide the stories/tickets that will be taken care of in the “round” - that is the next iteration for the journeys and the tailblazers and the next time frame for the campsite.  For that purpose the tickets/stories ready for development will be discussed one by one, estimated, and among all of them prioritized.
 
 If the discussion of a story/ticket reflects that there’s still some clarification needed, that story will not be estimated. The steps to get it clarified will be decided on the spot e.g. “who asks whom what”
 
