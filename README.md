@@ -83,7 +83,7 @@ Before we start getting into the details, let’s understand the terms we use
 
 # Glossary + Metaphors
 
-**Campers (Metaphors) - **
+**Campers (Metaphors) **
 
 
 
@@ -91,7 +91,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   We need to make sure it could grow to our needs and contain what our hikers are bringing in
 *   Our camp should be strong enough to handle rain and even rainstorm and campers should prepare for those scenarios
 
-**Hikers (Metaphors) - **
+**Hikers (Metaphors) **
 
 
 
@@ -101,7 +101,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   They can invite people from other camps to join their hike
 *   A group of hikers will choose one person to navigate or decide that the whole group would share that responsibility 
 
-**Trail Blazers (Metaphors) - **
+**Trail Blazers (Metaphors) **
 
 
 
@@ -110,7 +110,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   They will return to the camp at the end of the journey with their a result or findings and knowledge, or come with learnings of why the path wasn’t right.
 *   A group of trail blazers will choose one person to navigate or decide that the whole group would share that responsibility 
 
-**Journey - **An act of travelling, in our case to achieve something. Journeys have goals.
+**Journey ** An act of travelling, in our case to achieve something. Journeys have goals.
 
 
 
