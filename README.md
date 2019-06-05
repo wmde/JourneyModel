@@ -163,7 +163,7 @@ Campers will…
 *   finish loose ends of other features if needed 
 *   work in kanban and will follow the process Ministry of Magic team has established and works well (see campers process below)
 *   Campers / Engineering Manager can (and are encouraged to) create a Trailblazers team to tackle big maintenance issues / tech innovation they want to try and have a kickoff meeting and try to form their journey
-*   There must always be **1.2 FTEs on camp (on average - they can still take holiday etc..) **
+*   There must always be **1.2 FTEs on camp (on average - they can still take holiday etc..)**
 
 
 ### Campers process: 
