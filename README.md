@@ -76,7 +76,7 @@ There was a need from our side to make it clear that a “team”:
 *   Formed and disbanded when a goal is achieved
 *   Collects learnings from their _<span style="text-decoration:underline;">journey</span>_ ;) 
 
-And that’s how the **journey **metaphor started. A “team” became “Hikers”, “Trail Blazers” or “Campers” to fit to the journey metaphor, but also to describe the difference between them using one word.
+And that’s how the **journey** metaphor started. A “team” became “Hikers”, “Trail Blazers” or “Campers” to fit to the journey metaphor, but also to describe the difference between them using one word.
 
 Before we start getting into the details, let’s understand the terms we use
 
@@ -110,7 +110,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   They will return to the camp at the end of the journey with their a result or findings and knowledge, or come with learnings of why the path wasn’t right.
 *   A group of trail blazers will choose one person to navigate or decide that the whole group would share that responsibility 
 
-**Journey ** An act of travelling, in our case to achieve something. Journeys have goals.
+**Journey** An act of travelling, in our case to achieve something. Journeys have goals.
 
 
 
