@@ -117,7 +117,7 @@ Before we start getting into the details, let’s understand the terms we use
 *   **Hike - journey with a clear map**
 *   **Trail blazing - journey without a map**
 
-**Navigator** - A journey member that holds the map that was given to the group and funnels information from the team / to the team to the outside world. 
+**Navigator** - A journey member that holds the map that was given to the group and funnels information from the team to the outside world and vice versa.
 
 Ideally the navigator takes care of the team’s processes. (A navigator is not a must and the entire team can share that responsibility).
 
