@@ -139,13 +139,13 @@ Ideally the navigator takes care of the team’s processes. (A navigator is not 
 
 If the discussion of a story/ticket reflects that there’s still some clarification needed, that story will not be estimated. The steps to get it clarified will be decided on the spot e.g. “who asks whom what”
 
-The estimation of the stories/tickets will follow this [guideline](https://github.com/wmde/JourneyModel/blob/master/RETROSPECTIVE.md).  If after the first estimation there are significantly different opinions, one of the people with the highest one and one of the people with the lowest one will expose their reasons. A discussion might follow. Then everyone will estimate again until there is a consensus: either the new estimations are all the same or they agree to meet in the middle and go for the average.
+The estimation of the stories/tickets will follow this [guideline](https://github.com/wmde/JourneyModel/blob/master/DEFINITIONS.md).  If after the first estimation there are significantly different opinions, one of the people with the highest one and one of the people with the lowest one will expose their reasons. A discussion might follow. Then everyone will estimate again until there is a consensus: either the new estimations are all the same or they agree to meet in the middle and go for the average.
 
 If there’s no agreement on the estimation the team must address what is causing that.
 
 **Task Breakdown** - This meeting takes place potentially in all of the journeys (hikes, trailblazers and campsite). Its goal will be to decide whether the tickets/stories to tackle should be broken into smaller pieces e.g. in case parallelism is possible/needed or simply makes it easier and a collaboration is needed or wished for… or it stays as a whole.
 
-**Retrospective** - This meeting will take place locally for the campsite, the hikes and the trailblazers. A global camp retrospective (that include all campers) also takes place, with lower frequency than the local ones.. The goal of this meeting is to keep on the good practices and learn from the bad ones and change these. The structure is described in more depth in the following[ document](https://github.com/wmde/JourneyModel/blob/master/DEFINITIONS.md).
+**Retrospective** - This meeting will take place locally for the campsite, the hikes and the trailblazers. A global camp retrospective (that include all campers) also takes place, with lower frequency than the local ones.. The goal of this meeting is to keep on the good practices and learn from the bad ones and change these. The structure is described in more depth in the following [document](https://github.com/wmde/JourneyModel/blob/master/RETROSPECTIVE.md).
 
 **Daily** - This meeting will take place locally for the campsite, the hikes and the trailblazers on a daily basis - same as an Stand Up meeting. Everyone shares (1) what they did the day before, (2) what they plan to do for the day, (3) whether there are any blockers in their way, (4) whether they need help from someone. In the end of the meeting it will be made clear who needs/wants to do some pair programming in that day.
 
