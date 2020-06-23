@@ -1,4 +1,4 @@
-# The Journey Model
+# The Journey Model - Deprecated
 
 
 ### 
